@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.cache/
+.env/
+.DS-Store
+coverage/
+.vscode/
+package-lock.json
